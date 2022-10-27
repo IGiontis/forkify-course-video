@@ -129,6 +129,5 @@ class RecipeView extends View {
       `;
   }
 }
-console.log(fracty);
 
 export default new RecipeView();
